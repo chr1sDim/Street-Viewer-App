@@ -1,0 +1,37 @@
+.root{
+    -fx-font-size: 10pt;
+    -fx-font-family: "Tahoma";
+    -fx-base: #FFFFFF;
+    -fx-background:  #191970;
+    -fx-focus-color: #FFFFFF;
+}
+
+ #leftbutton {
+	 -fx-background-image: url("/miscellaneous/leftArrow.png");
+	 -fx-background-color: transparent;
+	 -fx-min-height: 50px;
+	 -fx-min-width: 50px;
+	 -fx-background-size: 50px 50px;
+	 -fx-background-repeat: no-repeat;
+	 -fx-background-position: center 6px;
+ }
+
+  #forwardbutton {
+	 -fx-background-image: url("/miscellaneous/forwardArrow.png");
+	 -fx-background-color: transparent;
+	 -fx-min-height: 50px;
+	 -fx-min-width: 50px;
+	 -fx-background-size: 50px 50px;
+	 -fx-background-repeat: no-repeat;
+	 -fx-background-position: center 6px;
+ }
+ 
+  #rightbutton {
+	 -fx-background-image: url("/miscellaneous/rightArrow.png");
+	 -fx-background-color: transparent;
+	 -fx-min-height: 50px;
+	 -fx-min-width: 50px;
+	 -fx-background-size: 50px 50px;
+	 -fx-background-repeat: no-repeat;
+	 -fx-background-position: center 6px;
+ }
